@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">EMEApp</string>
+    <string name="title_activity_main_grid">MainGrid</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    //Add for sliders
+
+    <!--Slide 1 Title & Description-->
+    <string name="slide_1_title">EME Technologies</string>
+    <string name="slide_1_desc">Established in 2008.</string>
+
+    <!--Slide 2 Title & Description-->
+    <string name="slide_2_title">Training</string>
+    <string name="slide_2_desc">Opportunity to become Developer.</string>
+
+    <!--Slide 3 Title & Description-->
+    <string name="slide_3_title">Mobile Development</string>
+    <string name="slide_3_desc">Android is a great platform to showcase our talent in application field.</string>
+
+    <!--Slide 4 Title & Description-->
+    <string name="slide_4_title">Web Development</string>
+    <string name="slide_4_desc">Start your carrier with Web Development.</string>
+
+    <!--Shared Preference-->
+    <string name="my_preference">com.abc.com.MyPref</string>
+    <string name="my_preference_key">com.abc.com.MyPrefKey</string>
+
+    //Add for colapsing toolbar
+    <string name="Syllabus">Syllabus</string>
+
+    <string name="in_news">android app   m jkdhwiehfiewif  </string>
+
+    //firebase
+    <string name="sign_out">Sign Out</string>
+
+
+
+
+    <!--for enquiry form-->
+    <string name="registration">Settings</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone</string>
+    <string name="course_prompt">Select course</string>
+    <string-array name="course_array">
+        <item>Select Course</item>
+        <item>JAVA</item>
+        <item>ANDROID</item>
+        <item>WEB DESIGN</item>
+        <item>PHP</item>
+        <item>.net</item>
+        <item>NETWORKING</item>
+        <item>TESTING</item>
+
+    </string-array>
+    <string name="hint_address">Address</string>
+    <string name="btn_send">Send</string>
+    <string name="err_msg_name">Enter your full name</string>
+    <string name="err_msg_email">Enter valid email address</string>
+    <string name="err_msg_phone">Enter the password</string>
+</resources>

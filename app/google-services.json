@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "604653356873",
+    "firebase_url": "https://emetestapp.firebaseio.com",
+    "project_id": "emetestapp",
+    "storage_bucket": "emetestapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604653356873:android:1a9fb1a64c9429eb",
+        "android_client_info": {
+          "package_name": "com.sukanya.emetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "604653356873-e4ni6mrilv8o8j48jpeniuhrnbq84ftb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sukanya.emetest",
+            "certificate_hash": "15e6cb4d1a740556618ad8405059106a626feac3"
+          }
+        },
+        {
+          "client_id": "604653356873-1olbgm84tpohm4h3o4qbsnoheh48j5h6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sukanya.emetest",
+            "certificate_hash": "f2c8280d027fe442cf1249091f519b91d7804efb"
+          }
+        },
+        {
+          "client_id": "604653356873-a0nb9bsh2o3cdggqpmhvq0sn0qphkrac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVrMV9NH2lPfgDKCfb7eA6Vio4x74S7zo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "604653356873-a0nb9bsh2o3cdggqpmhvq0sn0qphkrac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

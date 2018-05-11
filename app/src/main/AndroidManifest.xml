@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sukanya.emetest">
+
+    <!-- Add these permissions -->
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/eme_icon"
+        android:label="EmeTest"
+        android:roundIcon="@drawable/eme_icon"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity" />
+        <activity android:name=".MainAdmission" />
+        <activity android:name=".MainAuthentication" />
+        <activity android:name=".MainCompanyProfile" />
+        <activity android:name=".MainContact" />
+        <activity android:name=".MainCourses" />
+        <activity android:name=".MainDifferentCourses" />
+        <activity
+            android:name=".MainGrid"
+            android:label="@string/title_activity_main_grid"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".MainSeeCourses" />
+        <activity android:name=".MainVideos" />
+        <activity android:name=".WelcomeActivity" />
+        <activity android:name=".Splash">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".MainRegistration"></activity>
+    </application>
+
+</manifest>

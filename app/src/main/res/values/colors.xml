@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+
+    <color name="colorSlide_1">#009688</color>
+    <color name="colorSlide_2">#795548</color>
+    <color name="colorSlide_3">#8BC34A</color>
+    <color name="colorSlide_4">#3F51B5</color>
+    <color name="black">#000000</color>
+
+    <color name="active_dots">#fffafa</color>
+    <color name="inactive_dots">#838785</color>
+
+    <color name="primary_color">#ffc107</color>
+    <color name="primary_color_dark">#ffa000</color>
+    <color name="background_color">#fcfcfc</color>
+    <color name="light_gray_line">#ededed</color>
+    <color name="deep_purple">#7c4dff</color>
+    <color name="material_yellow">#ffb300</color>
+    <color name="material_green">#00bfa5</color>
+    <color name="pink_accent">#ff4081</color>
+    <color name="blue">#FF6EBBD9</color>
+    <color name="mustard_yellow">#FFBCAE18</color>
+
+    <color name="status_bar">#308e1b</color>
+    <color name="status_bar_videos">#df0d22</color>
+    <color name="status_bar_contact">#FF570469</color>
+    <color name="status_bar_company">#000000</color>
+    <color name="status_bar_courses">#d76c08</color>
+</resources>
